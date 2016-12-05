@@ -1,0 +1,48 @@
+p{
+	color:maroon;
+	font-size:60;
+}
+h1{
+	font-size:60;
+	color: #2151B6;
+}
+#second{
+    text-align: left;
+	font-size:25px;
+	color: #2151B6;
+    }
+#first{
+    text-align: right;
+	color: #2151B6;
+	font-size:25px;
+}
+body{
+    background-image: url("Ice-Cream.jpg");
+      style="width:1400;height:400;"
+	background-repeat:no-repeat;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: pink;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: white;
+    color: #476EC0;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px 35px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+}

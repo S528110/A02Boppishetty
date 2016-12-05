@@ -1,0 +1,80 @@
+h1{
+    font-family:"Verdana Italic";
+    color:#2151B6;
+    size:"25px";
+}
+body{
+	background-image: url("contact.gif");
+	style: width:1400; height:400;
+}
+ ul {
+   list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: pink;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: white;
+    color: #476EC0;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px 35px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+}
+#i1
+	{
+		width: 50px;
+	}
+	#i2
+	{
+		width: 50px;
+	}
+	#i3
+	{
+		width: 50px;
+	}
+.first{
+	position:absolute;
+   top:15%;
+   right:0;
+}
+input[type=submit] {
+    padding:15px 25px; 
+    background:#2151B6; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 15px;
+    border-radius: 15px; 
+}
+input[type=text] {
+    padding:15px; 
+    border:2px solid:#2151B6;  
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border-color:#2151B6;
+}
+
+input[type=email]{
+	 padding:15px; 
+    border:2px solid:#2151B6;  
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border-color:#2151B6;
+}
+textarea{
+    padding:15px; 
+    border:2px solid:#2151B6;  
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border-color:#2151B6;
+}
